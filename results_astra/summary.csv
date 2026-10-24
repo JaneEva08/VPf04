@@ -1,0 +1,4 @@
+﻿prompt,temperature,model,status,seconds,tokens_in,tokens_out,chars,file
+summary,0.7,gpt-6-astra,ok,8.2,936,170,527,summary_t0_7.md
+code_structure,0.7,gpt-6-astra,ok,345.8,981,6864,24661,code_structure_t0_7.md
+task_planning,0.7,gpt-6-astra,ok,113.1,1145,4454,14971,task_planning_t0_7.md
