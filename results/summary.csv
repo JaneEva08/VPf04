@@ -1,0 +1,10 @@
+﻿prompt,temperature,model,status,seconds,tokens_in,tokens_out,chars,file
+summary,0.1,gpt-6-luna,ok,4.9,936,271,1142,summary_t0_1.md
+summary,0.7,gpt-6-luna,ok,4.1,936,281,1156,summary_t0_7.md
+summary,1.0,gpt-6-luna,ok,3.5,936,264,1090,summary_t1_0.md
+code_structure,0.1,gpt-6-luna,ok,35.4,981,4662,16540,code_structure_t0_1.md
+code_structure,0.7,gpt-6-luna,ok,30.6,981,3967,14998,code_structure_t0_7.md
+code_structure,1.0,gpt-6-luna,ok,29.3,981,3736,13438,code_structure_t1_0.md
+task_planning,0.1,gpt-6-luna,ok,33.6,1145,4531,15696,task_planning_t0_1.md
+task_planning,0.7,gpt-6-luna,ok,22.5,1145,2900,10043,task_planning_t0_7.md
+task_planning,1.0,gpt-6-luna,ok,41.0,1145,5778,21057,task_planning_t1_0.md
